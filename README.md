@@ -34,9 +34,11 @@ This project aims to predict crop yield using machine learning models based on e
 - R² Score
 - Root Mean Squared Error (RMSE)
 
-🔗 Open in Colab
+🔗 Colab Link
 
 [![Open In Colab](https://colab.research.google.com/drive/1Q6VTMmysOlvg5p9qQf27hIpY54T8Yube)]
+
+🔗GitHub Link
 (https://github.com/SallyAboulhosn2001/CropYieldPredictor)
 
 
