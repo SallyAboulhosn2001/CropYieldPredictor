@@ -32,7 +32,7 @@ This project aims to predict crop yield using machine learning models based on e
 📈 Evaluation Metrics
 
 - R² Score
-- Root Mean Squared Error (RMSE)
+- Mean Squared Error (MSE)
 
 🔗 Colab Link
 
