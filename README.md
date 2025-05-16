@@ -36,6 +36,7 @@ This project aims to predict crop yield using machine learning models based on e
 
 🔗 Open in Colab
 
-[![Open In Colab](https://colab.research.google.com/drive/1Q6VTMmysOlvg5p9qQf27hIpY54T8Yube)](https://github.com/SallyAboulhosn2001/CropYieldPredictor)
+[![Open In Colab](https://colab.research.google.com/drive/1Q6VTMmysOlvg5p9qQf27hIpY54T8Yube)]
+(https://github.com/SallyAboulhosn2001/CropYieldPredictor)
 
 
